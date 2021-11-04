@@ -5,7 +5,7 @@
 <br>
 <br>
 <br> 
-<h2> I work with ✨C#✨ Unity Unreal c++ ✨JavaScript✨  ✨Lua✨  RobotC and ✨Blender✨ </h2>
+<h2> I work with ✨C#✨, Unity, Unreal, c++, ✨JavaScript✨,  ✨Lua✨,  RobotC, and ✨Blender✨ </h2>
 
 <br>
 <br>
