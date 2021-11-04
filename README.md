@@ -21,3 +21,11 @@
 <p> Used to be co owner for a subway owned by CloutAchieved that got taken down that had 80k members. ✨ </p>
   <p> Been in CSRP since Halloween in 2020 :) </p>
 <p> I love RP and ✈️ sims </P>
+
+<br>
+<h1> 
+DISCORDDD 💬
+</h1>
+<p> DMS : open </p>
+<p> ERASE D3LTA#0955 </p> 
+<p> Friends: Open </p>
