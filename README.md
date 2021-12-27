@@ -27,5 +27,5 @@
 DISCORDDD 💬
 </h1>
 <p> DMS : open </p>
-<p> ERASE D3LTA#0955 </p> 
+<p> Xernar#0955 </p> 
 <p> Friends: Open </p>
