@@ -12,5 +12,12 @@
 * Machine Learning Developer
 * Buisness Operator
 * Engineer
-* Techinicion
+* Technician
+
+
+<hr>
+
+### Contact info
+
+<a>Discord</a>
 
