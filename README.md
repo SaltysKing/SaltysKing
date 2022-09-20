@@ -5,3 +5,6 @@
 ## Developing for the future.
 
 ## Skills
+
+* 1
+* 2
