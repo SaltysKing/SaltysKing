@@ -1,5 +1,5 @@
-<center> <h1 style="color:green;"> Xernar.com/social </h1>
+# Alden Lemberg
+
 <hr>
-<BR>
-   <p> Great Things a-coming </p>
-   </center>
+
+## Developing for the future.
