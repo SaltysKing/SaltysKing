@@ -19,5 +19,5 @@
 
 ### Contact info
 
-<a>Discord</a>
+<a href="google.com">Discord</a>
 
