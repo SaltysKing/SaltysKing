@@ -20,5 +20,5 @@
 ### Contact info
 
 <a href="https://discord.com/users/290565309675339778">Discord</a>
-<a href="mailto:aldenlemberg@gmail.com">Email</a>
+<a href="mailto:aldenlemberg@gmail.com"> | Email</a>
 
