@@ -3,3 +3,5 @@
 <hr>
 
 ## Developing for the future.
+
+## Skills
