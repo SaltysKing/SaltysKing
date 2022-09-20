@@ -6,5 +6,11 @@
 
 ## Skills
 
-* 1
-* 2
+* System Engineer
+* Cybersecurity Engineer
+* Programmer 
+* Machine Learning Developer
+* Buisness Operator
+* Engineer
+* Techinicion
+
